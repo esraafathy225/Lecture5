@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lecture5</string>
+    <string name="confirm">Confirm</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="remember">Remember me</string>
+    <string name="forget">Forget Password?</string>
+    <string name="login">Login</string>
+    <string name="signup">SignUp</string>
+</resources>
